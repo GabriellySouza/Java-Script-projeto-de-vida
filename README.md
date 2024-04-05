@@ -1,1 +1,1 @@
-# Java-Script-projeto-de-vida
+# projeto-js-2024
